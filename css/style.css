@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/back.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.main{
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 80px;
+
+}
+.talk{
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 1690px;
+}
+
+.tta{
+    margin-left: 850px;
+    margin-top: 1650px;
+    position: absolute;
+}
